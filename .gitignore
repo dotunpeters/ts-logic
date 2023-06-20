@@ -1,0 +1,8 @@
+
+# insert some .gitignore content
+node_modules
+.idea
+.vscode
+.DS_Store
+.env
+```

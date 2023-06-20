@@ -1,0 +1,23 @@
+{
+  "name": "logic",
+  "version": "1.0.0",
+  "description": "writing defferent typescript and javascript logics",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotunpeters/ts-logic.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "author": "dotunpeters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotunpeters/ts-logic/issues"
+  },
+  "homepage": "https://github.com/dotunpeters/ts-logic#readme"
+}
